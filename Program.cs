@@ -54,7 +54,7 @@ namespace Project
 
         static void ShowAuthorInfo()
         {
-            Console.WriteLine("Гордеев Денис Сергеевич 6104-090301D");
+            Console.WriteLine("");
         }
         // всё вместе склеиваю
         static void PlayGuessGame(ref bool isRunning)
