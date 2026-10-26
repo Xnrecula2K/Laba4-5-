@@ -1,0 +1,14 @@
+C:\Users\Xnrecula2K\Laba3\bin\Debug\net10.0\Laba3.exe
+C:\Users\Xnrecula2K\Laba3\bin\Debug\net10.0\Laba3.deps.json
+C:\Users\Xnrecula2K\Laba3\bin\Debug\net10.0\Laba3.runtimeconfig.json
+C:\Users\Xnrecula2K\Laba3\bin\Debug\net10.0\Laba3.dll
+C:\Users\Xnrecula2K\Laba3\bin\Debug\net10.0\Laba3.pdb
+C:\Users\Xnrecula2K\Laba3\obj\Debug\net10.0\Laba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xnrecula2K\Laba3\obj\Debug\net10.0\Laba3.AssemblyInfoInputs.cache
+C:\Users\Xnrecula2K\Laba3\obj\Debug\net10.0\Laba3.AssemblyInfo.cs
+C:\Users\Xnrecula2K\Laba3\obj\Debug\net10.0\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\Xnrecula2K\Laba3\obj\Debug\net10.0\Laba3.dll
+C:\Users\Xnrecula2K\Laba3\obj\Debug\net10.0\refint\Laba3.dll
+C:\Users\Xnrecula2K\Laba3\obj\Debug\net10.0\Laba3.pdb
+C:\Users\Xnrecula2K\Laba3\obj\Debug\net10.0\Laba3.genruntimeconfig.cache
+C:\Users\Xnrecula2K\Laba3\obj\Debug\net10.0\ref\Laba3.dll
